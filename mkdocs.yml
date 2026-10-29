@@ -1,0 +1,47 @@
+site_name: Cadwork 2DR Python Documentation
+
+repo_name: cwapi2dr/cwapi2drpython
+repo_url: https://github.com/cwapi2dr/cwapi2drpython
+
+copyright: Copyright 2026 Cadwork
+
+site_url: https://cwapi2dr.github.io/cwapi2drpython/
+
+theme:
+  name: material
+  logo: cw_logo.svg
+  favicon: cw_logo.svg
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - search.suggest
+    - search.highlight
+    - navigation.tabs
+    - content.code.copy
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/cwapi2dr
+      name: cwapi2dr

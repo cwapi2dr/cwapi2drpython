@@ -1,6 +1,6 @@
 [project]
 name = "cwapi2dr"
-version = "0.0.1"
+version = "0.0.2"
 
 authors = [{ name = "Cadwork", email = "it@cadwork.ca" }]
 requires-python = ">= 3.14"
@@ -23,6 +23,8 @@ Homepage = "https://github.com/cwapi2dr/cwapi2drpython"
 
 [dependency-groups]
 dev = [
+    "mkdocs>=1.6.1",
+    "mkdocs-material>=9.7.7",
     "pre-commit>=4.6.2",
     "pytest>=9.1.1",
     "pytest-cov>=7.1.0",
