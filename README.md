@@ -38,7 +38,6 @@ Contributions are always welcome!
 ## Authors
 
 - [@jspaquet](https://github.com/jspaquet)
-- [@Brunner246](https://github.com/Brunner246)
 
 ## License
 
