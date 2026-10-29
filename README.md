@@ -1,0 +1,40 @@
+# Cadwork 2DR Python Interface
+
+![Logo](https://filehost.cadwork.ca/cadwork_logo.png)
+
+[![PyPI](https://img.shields.io/pypi/v/cwapi2dr)](https://pypi.python.org/pypi/cwapi2dr/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/cwapi2dr)](https://pypi.python.org/pypi/cwapi2dr/)
+[![Issues](https://img.shields.io/github/issues/cwapi2dr/cwapi2drpython)](https://github.com/cwapi2dr/cwapi2drpython/issues)
+[![Pulls](https://img.shields.io/github/issues-pr/cwapi2dr/cwapi2drpython)](https://github.com/cwapi2dr/cwapi2drpython/pulls)
+[![GitHub](https://img.shields.io/github/license/cwapi2dr/cwapi2drpython)](https://choosealicense.com/licenses/mit/)
+
+This is the Cadwork 2DR CwAPI2DR plugin architecture in Python.
+
+> **Note:** This package is a placeholder. The API is not available yet.
+
+## Installation
+
+Install with pip:
+
+```bash
+  pip install cwapi2dr
+```
+
+## Contributing
+
+Contributions are always welcome!
+
+## Roadmap
+
+- Guides
+- Examples
+- API Documentation
+
+## Authors
+
+- [@jspaquet](https://github.com/jspaquet)
+- [@Brunner246](https://github.com/Brunner246)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
